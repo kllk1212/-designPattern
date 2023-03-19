@@ -12,7 +12,7 @@ public class Main {
 			Book book = (Book)it.next();
 			System.out.println(book.getName());
 		}
-		
+		// 수정했습니다.
 		
 	}
 }
